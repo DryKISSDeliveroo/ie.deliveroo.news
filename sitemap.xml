@@ -2,133 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ie.deliveroo.news/offline.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/news/deliveroo-on-the-hunt-for-more-riders-in-dublin-as-breakfast-orders-triple-in-the-city.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/news/hot-chicken-roll-day.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/news/deliveroo-riders-given-training-to-help-those-in-need.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/news/cloudy-with-a-chance-of-cash.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/news/canal-clean-up.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/news/worlds-most-luxurious-spice-bag-coming-to-ireland.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/admin/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/search/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/about/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/contact/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ie.deliveroo.news/tag/chicken.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ie.deliveroo.news/tag/clean-up.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ie.deliveroo.news/tag/platinum-card.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ie.deliveroo.news/tag/giveaway.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ie.deliveroo.news/tag/first-aid.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/tag/riders.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/dublin.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/chicken.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/clean-up.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/platinum-card.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/giveaway.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/first-aid.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/tag/safety.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/tag/spice-bag.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/archive/2018.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/news.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ie.deliveroo.news/deliveroo.html</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
