@@ -91,6 +91,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ie.deliveroo.news/news/deliveroo-plus-family-subscription.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ie.deliveroo.news/news/deliveroo-signature.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +224,24 @@
   </url>
   <url>
     <loc>https://ie.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/plus.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/family.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/subscription.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
