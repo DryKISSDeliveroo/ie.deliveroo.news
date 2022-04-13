@@ -247,6 +247,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ie.deliveroo.news/news/deliveroo-veganuary-vegan.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ie.deliveroo.news/news/deliveroo-spice-bag-day.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,6 +314,18 @@
   </url>
   <url>
     <loc>https://ie.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/veganuary.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/vegan.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -571,12 +589,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ie.deliveroo.news/tag/vegan.html</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ie.deliveroo.news/tag/nyd.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -685,6 +697,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ie.deliveroo.news/archive/2022.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ie.deliveroo.news/archive/2021.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -722,6 +740,12 @@
   </url>
   <url>
     <loc>https://ie.deliveroo.news/tag/deliveroo/page/3.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ie.deliveroo.news/tag/deliveroo/page/4.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
